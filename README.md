@@ -13,3 +13,7 @@ Gradient generates a pink circle with a colour that gradually changes to white.
 Stars generates rotating stars.
 
 Flower prints ellipses that are rotated and changes colour.
+
+Sort illustrates selection sort.
+
+Meadow creates a pointillist art.
